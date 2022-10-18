@@ -1,1 +1,1 @@
-Hi!! Here you will find HTML front end information!
+Hi!! Here you will find lots of front end information!
