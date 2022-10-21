@@ -66,8 +66,8 @@ a:active {
 
 .container {
     width: 960px;
-    margin-right: var(--section-title-margin);
-    margin-left: var(--section-title-margin);
+    margin-right: 0;
+    margin-left: 0;
 }
 
 .section-header {
