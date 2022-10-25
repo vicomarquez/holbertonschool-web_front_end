@@ -22,7 +22,7 @@ body {
 [data-section-theme="dark"] {
     --text-color: var(--color-white);
     --section-title-color: var(--color-white);
-    color: var(--color-black);
+    background-color: var(--color-black);
 }
 
 h1, h2, h3, h4, h5, h6 {
