@@ -1,0 +1,15 @@
+$myFontColor: #3D3D3D;
+$myBackColor: #6D6D6D;
+
+body {
+    color: $myFontColor;
+    background-color: $myBackColor;
+}
+
+p {
+    color: $myFontColor;
+}
+
+h2 {
+    background-color: $myBackColor;
+}
